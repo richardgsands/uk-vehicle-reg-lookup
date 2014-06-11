@@ -11,7 +11,7 @@ $ npm install
 $ node app.js
 ```
 
-## Getting started
+## Usage
 
 ```
 $ localhost:3000/check/JGP411T
