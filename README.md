@@ -1,7 +1,7 @@
 # UK Vehicle Number Plate Lookup
 
   Very simple NodeJS API to get vehicle details from number plate
-  * NB: This is for personal use only - and NOT for production systems! *
+  _NB: This is for personal use only - and NOT for production systems!_
 
 ## Getting started
 
