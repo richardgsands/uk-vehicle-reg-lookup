@@ -5,14 +5,14 @@
 ## Getting started
 
 ```
-$ git clone https://github.com/richardgsands/uk-vehicle-reg-lookup.git
-$ cd uk-vehicle-reg-lookup
-$ npm install
-$ node app.js
+git clone https://github.com/richardgsands/uk-vehicle-reg-lookup.git
+cd uk-vehicle-reg-lookup
+npm install
+node app.js
 ```
 
 ## Usage
 
 ```
-$ localhost:3000/check/JGP411T
+localhost:3000/check/JGP411T
 ```
